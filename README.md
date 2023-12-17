@@ -11,3 +11,7 @@ A simple Project of creating a linear regression model to predict Insurance cost
    
    ![image](https://github.com/ngca1011/insurance-forecasting-linear-regression/assets/113590257/0b0bae1f-5da2-4e83-94f1-95002976cdd5)
 7. Test the model, evaluate the Model by calculating the R Square value (the coefficient of determination) and MSE
+
+# Update
+
+Added an implementation with tensorflow for a simple neural network
